@@ -20,8 +20,8 @@
     // Fill in with your Parse, Facebook and Twitter credentials:
     // ****************************************************************************
     
-    [Parse setApplicationId:@"your_application_id" clientKey:@"your_client_key"];
-    [PFFacebookUtils initializeWithApplicationId:@"your_facebook_app_id"];
+    [Parse setApplicationId:@"r48IJBEsMIsRNLOd9hNgcyr9ihGunHpXhA4YOSw1" clientKey:@"jVxJqD3fJ7r5Bx2j9ezxCi8l0hsH5g8RCJrbQPXy"];
+    [PFFacebookUtils initializeWithApplicationId:@"227451594050404"];
     [PFTwitterUtils initializeWithConsumerKey:@"your_twitter_consumer_key" consumerSecret:@"your_twitter_consumer_secret"];
     
     
