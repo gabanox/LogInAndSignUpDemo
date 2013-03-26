@@ -42,6 +42,8 @@
 		747F007F15951A58000F601E /* SignUpFieldBG.png in Resources */ = {isa = PBXBuildFile; fileRef = 747F007315951A58000F601E /* SignUpFieldBG.png */; };
 		747F008015951A58000F601E /* Twitter.png in Resources */ = {isa = PBXBuildFile; fileRef = 747F007415951A58000F601E /* Twitter.png */; };
 		747F008115951A58000F601E /* TwitterDown.png in Resources */ = {isa = PBXBuildFile; fileRef = 747F007515951A58000F601E /* TwitterDown.png */; };
+		C06D6A84170160F80048265B /* IDCardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C06D6A82170160F80048265B /* IDCardViewController.m */; };
+		C06D6A85170160F80048265B /* IDCardViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C06D6A83170160F80048265B /* IDCardViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -90,6 +92,9 @@
 		747F007315951A58000F601E /* SignUpFieldBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SignUpFieldBG.png; sourceTree = "<group>"; };
 		747F007415951A58000F601E /* Twitter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Twitter.png; sourceTree = "<group>"; };
 		747F007515951A58000F601E /* TwitterDown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TwitterDown.png; sourceTree = "<group>"; };
+		C06D6A81170160F80048265B /* IDCardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IDCardViewController.h; sourceTree = "<group>"; };
+		C06D6A82170160F80048265B /* IDCardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IDCardViewController.m; sourceTree = "<group>"; };
+		C06D6A83170160F80048265B /* IDCardViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IDCardViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +181,9 @@
 			children = (
 				74366EB5158AAE1000A17D8A /* AppDelegate.h */,
 				74366EB6158AAE1000A17D8A /* AppDelegate.m */,
+				C06D6A81170160F80048265B /* IDCardViewController.h */,
+				C06D6A82170160F80048265B /* IDCardViewController.m */,
+				C06D6A83170160F80048265B /* IDCardViewController.xib */,
 				74366EDD158AB49300A17D8A /* DemoTableViewController.h */,
 				74366EDE158AB49300A17D8A /* DemoTableViewController.m */,
 				74366EEF158AF29000A17D8A /* Default Settings */,
@@ -297,6 +305,7 @@
 				747F007F15951A58000F601E /* SignUpFieldBG.png in Resources */,
 				747F008015951A58000F601E /* Twitter.png in Resources */,
 				747F008115951A58000F601E /* TwitterDown.png in Resources */,
+				C06D6A85170160F80048265B /* IDCardViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -315,6 +324,7 @@
 				74366EFA158B95C800A17D8A /* SubclassConfigViewController.m in Sources */,
 				74366F03158B973C00A17D8A /* MyLogInViewController.m in Sources */,
 				74366F06158B975500A17D8A /* MySignUpViewController.m in Sources */,
+				C06D6A84170160F80048265B /* IDCardViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
